@@ -21,7 +21,7 @@ These small solar installations are quite simple to install and easy to get appr
 
 ## The meter ##
 
-After this is done, the local grid operator checks your type of energy meter. If the meter is an older style with an aluminium rotor disc inside they will commission a change to a two-way electric meter. It is often done by third party companies that will contact the house owner some weeks after the announcment of the installation. The change of the meter is essential for the grid operator because the older style meters can spin backwards if the amount of energy produced is higher than needed. This is a good situation for the houseowner but a not-wanted situation for the grid operator / energy provider. 
+After the installation is done, the local grid operator checks your type of energy meter. If the meter is an older style with an aluminium rotor disc inside they will commission a change to a two-way electric meter. It is often done by third party companies that will contact the house owner some weeks after the announcment of the installation. The change of the meter is essential for the grid operator because the older style meters can spin backwards if the amount of energy produced is higher than needed. This is a good situation for the houseowner but a not-wanted situation for the grid operator / energy provider. 
 So they are quite fast for a reason!
 
 You can find details about energy meters on https://en.wikipedia.org/wiki/Electricity_meter
@@ -48,7 +48,7 @@ Text about the solar panels
 
 ## The battery ##
 
-Building the energy storage
+Building the energy storage, charging it with energy
 
 ## Wiring it all up ##
 
