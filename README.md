@@ -10,7 +10,7 @@ The system is attached to the public grid - it is at this moment not capable of 
 
 Small solar installations became quite popular in Germany in recent years. Due to the energy price hike after the war broke out in Ukraine electricity was priced near 0,40 € per kWh. To compensate, many households installed so called "balcony power plants" (direct translation from German). 
 
-The installation of 2 solar panels and a microinverter could save a lot of money! In energy demanding households with installations like garden or pool pumps, electrical heating or cooling, IT servers, electric vehicles and so on nearly every produced kWh is used to feed the own demand. Therefore the return on invest (ROI) can be high. I've seen installations where the ROI can be hit after 4 years. It had a feed-in-rate of 5 %. 
+The installation of 2 solar panels and a microinverter could save a lot of money! In energy demanding households with installations like garden or pool pumps, electrical heating or cooling, small IT installations or servers, electric vehicles and so on nearly every produced kWh is used to feed the own demand. Therefore the return on invest (ROI) can be high. I've seen installations where the ROI can be hit after 4 years. It had a feed-in-rate of 5 %. 
 
 If no battery is present it all depends on the consumption during the solar hours. If the house has a normal consumption rate and a solar installation of 600 W inverter power is installed a feed-in-rate around 30 - 50 % should be assumed. So the calculated ROI could double: It has to be multiplied by around 2 because the feed-in to the grid with a two-way meter is "free". Normal houses should get a ROI of around 8 to 10 years. This is still a quite good investment!
 
@@ -21,7 +21,7 @@ With this kind of small solar installation and good mounting conditions (roof, n
 
 These small solar installations are quite simple to install and easy to get approved by the local grid operator. To ensure a full approved operation only 2 things are necessary:
   
-- register the installation the responsible authority - Marktstammdatenregister
+- register the installation to the responsible authority - Marktstammdatenregister
 
   https://www.marktstammdatenregister.de/MaStR/
 
@@ -70,7 +70,7 @@ Controlling it via HomeAssistant
 
 
 
-### Outstanding ressources ###
+### Ressources ###
 
 *in English*
 
