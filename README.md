@@ -4,7 +4,7 @@
 
 This repository is about a solar installation and a combined DIY-battery at a German house. Goal of the hard- and software is to keep the feed-in to the public grid around zero, charge the battery by solar energy and use the stored energy if needed. 
 
-I am mainly talking about the situation in houses with a few ore one family living in. In dense urban areas these installations are quite often not possible.   
+I am mainly talking about the situation in houses with one family living in. In dense urban areas these installations are quite often not possible but many Germans do live in small and mid sized villages!
 
 The system is attached to the public grid - it is at this moment not capable of providing power during a blackout as it uses small grid inverters (they only work with a provided frequency on the AC-Side by the grid). 
 
@@ -84,6 +84,7 @@ Controlling it via HomeAssistant
 
 *in German*
 
+- facts about German urbanization https://www.deutschland.de/de/topic/leben/stadt-und-land-fakten-zu-urbanisierung-und-landflucht
 - use your address to search for your distribution network operator https://www.vnbdigital.de/
 - possible solar yields for German cities https://photovoltaiksolarstrom.com/photovoltaiklexikon/solarertrag-staedte/
 - to configure your Tasmota SMI https://hessburg.de/tasmota-wifi-smartmeter-konfigurieren/
