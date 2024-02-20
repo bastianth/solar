@@ -53,9 +53,14 @@ Newer style meters often come with an optical interface. It can be read by IR di
 
 To make the meter expose these and other entities it has to be unlocked by a PIN and a setting. To get the PIN just write a letter or e-Mail to your grid provider asking for the number. It will take a couple of weeks until they respond. Entering the PIN is done by a simple flashlight (a cellphone flashlight did not work as expected). 
 
-Pre-build hardware can be found on eBay and Amazon. They are attached with a magnet that clips to the round interface socket on the meter. 
+Pre-build hardware can be found for example on eBay: https://www.ebay.de/itm/296005867906 
+The module is attached with a magnet that clips to the round interface socket on the meter. 
 
 The software part on these devices is often done by *Tasmota Smart Meter Interface* - https://tasmota.github.io/docs/Smart-Meter-Interface/
+
+The important part of the configuration is the script! You need to apply a code snippet that suits your meter. Every meter uses a different protocoll. Search for your vendor in the list of *Smart Meter Descriptors* https://tasmota.github.io/docs/Smart-Meter-Interface/#smart-meter-descriptors and apply the script to your tasmota firmware. 
+
+A detailed instruction can be found here: https://hessburg.de/configure-a-tasmota-wifi-smart-meter/
 
 
 ## The panels ##
